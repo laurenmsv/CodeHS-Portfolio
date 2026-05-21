@@ -3,7 +3,6 @@ import javax.swing.JFrame;
 public class MyProgram {
     public static void main(String[] args) {
      
-        
          JFrame MainFrame = new JFrame();
         
         MainFrame.setSize(600,800);
