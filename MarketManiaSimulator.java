@@ -2,7 +2,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 public class MarketManiaSimulator {
     
     public static void main(String[] args) {
