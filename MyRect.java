@@ -11,7 +11,6 @@ import java.awt.Color;
     Color color = Color.WHITE;
       
       int speed = 50;
-
       
       
       
