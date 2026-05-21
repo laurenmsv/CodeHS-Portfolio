@@ -21,7 +21,6 @@ public class MarketItem{
         priceHistory = new ArrayList<>();
         priceHistory.add(startPrice);
         
-        
     }
     
     
